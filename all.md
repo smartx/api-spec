@@ -16,9 +16,9 @@ id=33
   "data":[ // list of new rides found for this tdriver
     {
       "ride_id":"133",
-      "lat":"-12.1231231",
-      "lng":"-67.312312312",
-      "user_name":"Patricio", // User first Name
+      "lat":"-12.1231231", // pickup lat
+      "lng":"-67.312312312", // pickup lng
+      "name":"Patricio", // User first Name
       "phone":"993923913",
       "address":"Av. Canada 324",
       "ref":"Cruce canada con Guardia Civil"
