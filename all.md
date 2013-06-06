@@ -95,8 +95,8 @@ id=92
     "status":0 // ride status (0=without-rides 1=requested, 2=tdriver_coming, 3=riding)
   }
 }
-
-
+```
+```js
 {
   "data":{
     "status":1 // ride status (0=non-rides 1=requested, 2=tdriver_coming, 3=riding)
@@ -106,8 +106,8 @@ id=92
     "ex_land_time":12 // expected time to get to end location (in mins). Present only if status is 3
   }
 }
-
-
+```
+```js
 {
   "data":{
     "status":2 // ride status (0=non-rides 1=requested, 2=tdriver_coming, 3=riding)
@@ -120,7 +120,8 @@ id=92
     "ex_pickup_time":3 // expected time for the tdriver to arrive (in minutes). Present only if status is 2
   }
 }
-
+```
+```js
 {
   "data":{
     "status":3 // ride status (0=non-rides 1=requested, 2=tdriver_coming, 3=riding)
@@ -134,6 +135,5 @@ id=92
     "ex_arrive_time":12 // expected time to get to end location (in mins). Present only if status is 3
   }
 }
-
-
 ```
+
