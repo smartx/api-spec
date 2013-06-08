@@ -101,9 +101,7 @@ id=92
   "data":{
     "status":1 // ride status (0=non-rides 1=requested, 2=tdriver_coming, 3=riding)
     "ride_id":"123",
-    "ex_time":2, // expected time to wait for a tdriver to pick (in minutes)
-    "ex_ar_time":3 // expected time for the tdriver to arrive (in minutes). Present only if status is 2
-    "ex_land_time":12 // expected time to get to end location (in mins). Present only if status is 3
+    "ex_time":2 // expected time to wait for a tdriver to pick (in minutes)
   }
 }
 ```
