@@ -111,7 +111,8 @@ id=92
     "status":2 // ride status (0=non-rides 1=requested, 2=tdriver_coming, 3=riding)
     "ride_id":"123",
     "tdriver_id":"30", // present only if status is 2
-    "tdriver_name":"Taxista Ra Ra",
+    "tdriver_name":"Claudio Retamoso",
+    "tdriver_ll":"-12.2323323,-72.132133232"
     "tdriver_pic":"http://pic.smx.com/123.png",
     "tdriver_phone":"994939443",
     "ex_time":2, // expected time to wait for a tdriver to pick (in minutes)
@@ -125,7 +126,7 @@ id=92
     "status":3 // ride status (0=non-rides 1=requested, 2=tdriver_coming, 3=riding)
     "ride_id":"123",
     "tdriver_id":"30", // present only if status is 2
-    "tdriver_name":"Taxista Ra Ra",
+    "tdriver_name":"Claudio Retamoso",
     "tdriver_pic":"http://pic.smx.com/123.png",
     "tdriver_phone":"994939443",
     "ex_time":2, // expected time to wait for a tdriver to pick (in minutes)
